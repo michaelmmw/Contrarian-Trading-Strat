@@ -1,1 +1,1 @@
-# Contrarian-Trading-Strat
+Simple Contrarian Trading Strategy
